@@ -4,3 +4,6 @@ tiene 27 años
 
 viviendo de su vida y obra maestra
 
+Aqui agregue esta linea para probar la restauracion de un commit
+
+y tambien complemente aqui
